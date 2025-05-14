@@ -1,5 +1,7 @@
 header{
-    background-image: url(imagens/imagem\ header.jpg);
-    background-size: cover;
-    background-position: center;
-}
+   background-image: url('imagens/imagem-header.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    padding: 50px 20px; 
+    color: white; 
+    text-align: center; }
