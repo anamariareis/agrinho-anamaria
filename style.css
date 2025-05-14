@@ -8,4 +8,6 @@ header{
 
    .botao{
     color: aquamarine;
+    border-radius: 10px;
+    margin: 10px;
    }
