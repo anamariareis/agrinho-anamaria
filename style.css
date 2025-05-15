@@ -43,6 +43,7 @@ header{
    img{
     width: 595px;
     border-radius: 7px;
+    box-shadow: inset;
    }
 
    .conteudo-central{
