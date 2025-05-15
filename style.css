@@ -7,15 +7,15 @@ header{
   background-image: url(imagem\ header.jpg);
     background-size: cover; 
     background-position: center; 
-    padding: 10% 10%; 
+    padding: 50px 20px; 
     color: rgb(255, 255, 255); 
     text-align: center;
-    font-size: 170%;
+    font-size: 27px;
     border-radius: 7px;
    }
 
    header p{
-    font-size: 50%;
+    font-size: 21px;
    }
 
    .botao{
