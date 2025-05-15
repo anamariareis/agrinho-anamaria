@@ -75,6 +75,9 @@ header{
    .artigos{
     padding: 20px;
     background-color: azure;
+    display: block;
+    text-align: center;
+    text-decoration: none;
    }
 
    .artigo-1, .artigo-2, .artigo-3{
