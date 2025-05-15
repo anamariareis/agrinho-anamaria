@@ -40,3 +40,11 @@ header{
     width: 595px;
     border-radius: 7px;
    }
+
+   .conteudo-central{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 40px;
+   }
