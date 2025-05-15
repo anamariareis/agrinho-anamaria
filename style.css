@@ -1,5 +1,10 @@
 header{
-  background-color: #70b37e; }
+  background-color: #70b37e; 
+    background-size: cover; 
+    background-position: center; 
+    padding: 50px 20px; 
+    color: white; 
+    text-align: center; }
 
    .botao{
     color: aquamarine;
