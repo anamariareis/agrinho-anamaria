@@ -10,6 +10,10 @@ header{
     border-radius: 7px;
    }
 
+   header p{
+    font-size: 10px;
+   }
+
    .botao{
     background-color: rgb(186, 213, 236);
     border-radius: 10px;
