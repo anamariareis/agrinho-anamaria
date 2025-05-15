@@ -1,10 +1,14 @@
+
+
 header{
   background-image: url(imagem\ header.jpg);
     background-size: cover; 
     background-position: center; 
     padding: 50px 20px; 
     color: white; 
-    text-align: center; }
+    text-align: center;
+    font-size: 48px;
+   }
 
    .botao{
     background-color: aliceblue;
